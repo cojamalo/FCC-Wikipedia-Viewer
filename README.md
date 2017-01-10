@@ -1,4 +1,5 @@
 # FCC-Wikipedia-Viewer
+Completion Date: Oct 8, 2016
 
 This is the repository for my completion of the freeCodeCamp "Build a Wikipedia Viewer" project. Formatted for mobile use.
 
