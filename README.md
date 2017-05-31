@@ -6,4 +6,4 @@ This is the repository for my completion of the freeCodeCamp "Build a Wikipedia 
 A working version is at http://codepen.io/cojamalo/pen/ozZWER.
 The project is an example of a simple AJAX request to Wikipedia's API. Helps the user quick see multiple search results.
 
-Powered by the Wikipedia API. Project coded by Connor Lenio ©2016. Uses Animate.css animations.
+Powered by the Wikipedia API. Project coded by Connor Lenio - released into the public domain for educational purposes in 2016. Uses Animate.css animations.
